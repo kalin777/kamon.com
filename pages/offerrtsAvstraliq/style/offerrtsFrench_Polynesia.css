@@ -1,0 +1,151 @@
+header{
+    height: 15em;
+    font-size: 1.5em;
+    padding-top: .5em;
+    padding-right: 2em;
+    text-align: center; 
+    background-image: url(/www/images/dest_BOB_thumb2.jpg-fon.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: #00f;
+}
+a:active{
+    color: #f00;
+}
+header div a{
+    color: cyan;
+}
+#email{
+    text-align: left;
+    margin-left: 4em;
+}
+header i{
+    position:relative;
+    left: 24em;bottom: 1em;
+    color:cyan ;
+}
+header i:hover{
+    color: #00f;
+}
+header i:active{
+    color: #f00;
+}
+main{
+    min-height: 70em;
+    background-image: url(/www/images/bql\ fon.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+main p{
+    position: absolute;
+    top: 50em;left: 22em;
+    height: 10em;
+    width: 40em;
+    font-size: 1.5em;
+    color: #000;
+}
+main .marokotexst{
+    position: absolute;
+    top: 25em;left: 1em;
+}
+.French-Polynesian1{
+    position: absolute;
+    left: 65em;top: 38em;
+}
+.French-Polynesian2{
+    position: absolute;
+    left: 70em;top: 60em;
+}
+.French-Polynesian3{
+    position: absolute;
+    top: 70em;left: 8em;
+}
+.French-Polynesian4{
+    position: absolute;
+    top: 55em;left: 40em;
+}
+.French-Polynesian5{
+    position: absolute;
+    top: 55em;left: 8em;
+}
+.Menu>li{
+    width: 7em;
+    height: 1em;
+    display: inline-block;
+    margin: -0.25em;
+    position: relative;
+    vertical-align: top;
+    left: 2em;top: 13em;
+    border: 1px solid #000;
+    background-color: lightskyblue;
+    padding-top: .1em;
+}
+li ul{
+    display: none;
+    margin-top: 2px;
+    font-size: 20px;
+
+    
+}
+li:hover ul{
+    display: block;
+    background-color: lightskyblue;
+    
+}
+ul li{
+    border: 1px solid #000;
+}
+footer{
+    height: 15em;
+    background-image: url(/www/images/footer777.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+img{
+    border-radius: 40%;
+    box-shadow: 10px 10px 10px lightblue;
+}
+.info{
+    position: absolute;
+    top: 0.4em;right: 16em;
+    color: cyan;
+}
+footer li{
+    width: 10em;
+    height: 2em;
+    position: absolute;
+    vertical-align: bottom;
+    left: 10.5em;top: 30em;
+    background-color: lightblue;
+    border: 1px solid lightblue;
+    border-bottom:1px solid linen;
+    font-size: 3em;
+    text-align: center;
+    color:rgb(20, 19, 19);
+    border-radius: 10px;
+}
+.facebook{
+    position:absolute;
+    top: 50em;right: 3em;
+    font-size: 2em;
+}
+.googlemaps{
+    position: absolute;
+    top: 52em;right: 2em;
+    font-size: 2em;
+}
+.number{
+    position: absolute;
+    top: 68em;right: 24em;
+    font-size: 1.5em;
+}
+.gloock{
+    position: absolute;
+    top: 68.5em;left: 1em;
+    font-size: 1.5em;
+}

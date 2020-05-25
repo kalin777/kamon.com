@@ -1,0 +1,182 @@
+header{
+    height: 15em;
+    font-size: 1.5em;
+    padding-top: .5em;
+    padding-right: 2em;
+    text-align: center; 
+    background-image: url(../images/dest_BOB_thumb2.jpg-fon.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+}
+header div a{
+    color: cyan;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: #00f;
+}
+a:active{
+    color: #f00;
+}
+
+#baronessLink{
+    text-align: left;
+    margin-left: 4em;
+}
+#floatright>div{
+    float: right;
+}
+.info{
+    position: absolute;
+    top: 0.4em;right: 16em;
+    color: cyan;
+}
+header i{
+    position:relative;
+    left: 24em;bottom: 1em;
+    color:cyan ;
+}
+header i:hover{
+    color: #00f;
+}
+header i:active{
+    color: #f00;
+}
+main{
+    min-height: 70em;
+    background-image: url(../images/bql\ fon.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+main a:hover{
+    color: #00f;
+}
+main div a{
+    color:#000;
+}
+.Menu>li{
+    width: 7em;
+    height: 1em;
+    display: inline-block;
+    margin: -0.25em;
+    position: relative;
+    vertical-align: top;
+    left: 2em;top: 13em;
+    border: 1px solid #000;
+    background-color: lightskyblue;
+    padding-top: .1em;
+}
+li ul{
+    display: none;
+    margin-top: 2px;
+    
+}
+li:hover ul{
+    display: block;
+    background-color: lightskyblue;
+    font-size: 20px;
+}
+ul li{
+    border: 1px solid #000;
+}
+.amerika{
+    position: absolute;
+    top:33em;right: 16em;;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.5em;
+}
+.australia{
+    position: absolute;
+    top: 46em;right: 6em;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.5em;
+}
+.asia{
+    position: absolute;
+    top: 20em;right: 6em;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.5em;
+}
+.antraktida{
+    position: absolute;
+    left: 6em;top: 46em;
+    border-radius: 10%;
+    text-align: center;
+    font-size: 1.5em;
+}
+.afrika{
+    position: absolute;
+    top: 33em;left: 16em;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.5em;
+}
+.europa{
+    position: absolute;
+    top: 20em;left: 6em;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.5em;
+}
+main img{
+    box-shadow: 10px 10px 10px lightskyblue;
+}
+footer{
+    height: 15em;
+    background-image: url(../images/footer777.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+footer .contackt{
+    text-align:left;
+    margin-top: 2px;
+    color: #000;
+    font-size: 1.3em;
+}
+img{
+    border-radius: 10px;
+}
+img:active{
+    filter: sepia(100%);
+}
+footer li{
+    width: 10em;
+    height: 2em;
+    position: absolute;
+    vertical-align: bottom;
+    left: 10.5em;top: 30em;
+    background-color: lightcyan;
+    border: 1px solid lightcyan;
+    border-bottom:1px solid linen;
+    font-size: 3em;
+    text-align: center;
+    color:rgb(20, 19, 19);
+    border-radius: 10px;
+}
+.facebook{
+    position:absolute;
+    top: 50em;right: 3em;
+    font-size: 2em;
+}
+.googlemaps{
+    position: absolute;
+    top: 52em;right: 2em;
+    font-size: 2em;
+}
+.number{
+    position: absolute;
+    top: 68em;right: 24em;
+    font-size: 1.5em;
+}
+.gloock{
+    position: absolute;
+    top: 68.5em;left: 1em;
+    font-size: 1.5em;
+}
+
+    
