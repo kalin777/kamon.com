@@ -146,7 +146,7 @@ main a{
 }
 footer{
     height: 15em;
-    background-image: url(/www/images/footer777.png);
+    background-image: url(../images/footer777.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
