@@ -4,7 +4,7 @@ header{
     padding-top: .5em;
     padding-right: 2em;
     text-align: center; 
-    background-image: url(/www/images/dest_BOB_thumb2.jpg-fon.jpg);
+    background-image: url(/images/dest_BOB_thumb2.jpg-fon.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;   
 }
@@ -42,7 +42,7 @@ header i:active{
 }
 main{
     min-height: 70em;
-    background-image: url(/www/images/bql\ fon.jpg);
+    background-image: url(/images/bql\ fon.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -107,7 +107,7 @@ ul li{
 }
 footer{
     height: 15em;
-    background-image: url(/www/images/footer777.png);
+    background-image: url(/images/footer777.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
