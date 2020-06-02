@@ -31,8 +31,8 @@ a:active{
     color: cyan;
 }
 header i{
-    position:relative;
-    left: 24em;bottom: 1em;
+    position:absolute;
+    right: 2em; top: 0.5em;
     color:cyan ;
 }
 header i:hover{
@@ -60,7 +60,7 @@ main div a{
     margin: -0.25em;
     position: relative;
     vertical-align: top;
-    left: 2em;top: 13em;
+    left: 2em;top: 13.8em;
     border: 1px solid #000;
     background-color: lightskyblue;
     padding-top: .1em;
