@@ -25,9 +25,9 @@ a:active{
     color: #f00;
 }
 header i{
-    position:relative;
-    left: 24em;bottom: 1em;
-    color: cyan ;
+    position:absolute;
+    right: 2em; top: 0.5em;
+    color:cyan ;
 }
 header i:hover{
     color: #00f;

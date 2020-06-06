@@ -78,9 +78,10 @@ li:hover ul{
 ul li{
     border: 1px solid #000;
 }
+
 .amerika{
-    position: absolute;
-    top:33em;right: 16em;;
+    position: relative;
+    top: 16em;
     text-align: center;
     border-radius: 10px;
     font-size: 1.5em;
@@ -107,8 +108,8 @@ ul li{
     font-size: 1.5em;
 }
 .afrika{
-    position: absolute;
-    top: 33em;left: 16em;
+    position: relative;
+    top: 12em;
     text-align: center;
     border-radius: 10px;
     font-size: 1.5em;
